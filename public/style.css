@@ -1,0 +1,9 @@
+body {
+  background-color: #eee;
+  font: 13px/1.5 "Helvetica Neue";
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
